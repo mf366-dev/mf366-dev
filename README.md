@@ -21,10 +21,11 @@ I provide translation services to Portuguese on my Buy Me A Coffee. Scroll to le
 * 🔭 **My Main Project:** **WriterSharp** and everything related to it
 * <img src="https://github.com/lipis/flag-icons/blob/main/flags/4x3/pt.svg" alt="PT" style="width:20px" title="PORTUGAL!!!!!"></img> **Portuguese**
 
-| **Languages** | **I Know** |
-| ------------- | ----- |
-| <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/refs/heads/master/icons/file_type_csharp.svg" width="65" /> | <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/refs/heads/master/icons/file_type_python.svg" width="65" /> |
-| <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/refs/heads/master/icons/file_type_vb.svg" width="65" /> | <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/refs/heads/master/icons/file_type_gamemaker.svg" width="65" /> |
+[![GitHub Stats](https://helio-github-stats.vercel.app/api?username=mf366-dev&custom_title=GitHub+Stats&theme=highcontrast&title_color=ffbe0a&text_color=ffffff&icon_color=ffbe0a&ring_color=ffbe0a&border_color=fff700&hide_border=false&locale=en&border_radius=4.5&card_width=466&hide_title=false&hide_rank=false&rank_icon=default&show_icons=true&include_all_commits=true&line_height=25&text_bold=false&disable_animations=false&number_format=short)](https://nice-readme.vercel.app/github-stats)
+
+[![GitHub Streak](https://github-streak-stats-ruby.vercel.app/?user=mf366-dev&theme=highcontrast&hide_border=true&border_radius=4.5&locale=en&short_numbers=true&mode=daily&disable_animations=false&card_width=466&card_height=194&hide_total_contributions=false&hide_current_streak=false&hide_longest_streak=false)](https://nice-readme.vercel.app/streak-stats)
+
+[![Top Languages](https://helio-github-stats.vercel.app/api/top-langs?username=mf366-dev&layout=pie&stats_format=percentages&theme=dark&hide_border=false&border_radius=5&card_width=466&locale=pt-br&custom_title=Top+Languages&hide=basic%2Ctcl%2C&langs_count=16)](https://nice-readme.vercel.app/top-langs)
 
 ## OceanApocalypseStudios 🌊
 I'd like you to meet:
