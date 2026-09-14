@@ -1,17 +1,18 @@
-# Hello!
-The name is Matthew. I absolutely **love** coding C#, although Python was my first language (it holds a special place in my heart xD).
+# Hey there!
+The name is Matthew. I work primarily with **C#** and **Python**, but I'm currently learning **C**, **C++**, **Rust** and **F#** (ikik, too many languages to learn at once).
+I'm also one of the co-founders of **[Ocean Apocalypse](https://github.com/OceanApocalypse)**.
 
 * He/Him
-* C# and .NET enthusiast
-* Proud Visual Studio user
-* Sometimes using Python
-* Co-founder of [OceanApocalypseStudios](https://github.com/OceanApocalypseStudios)
+* Proud **Emacs** and **Zed** user
+* _"Yes, I use LaTeX and Org Mode! How did you know?"_
+* I :heart: KDE
+* I :heart: metal _(no, not that [one](https://developer.apple.com/metal/))_
 * [Check 'em out :D](https://github.com/norbcodes)
-* Learning C and C++
-* Nobody stops me from using pointers in C#
-* 👉 [RSML](https://github.com/OceanApocalypseStudios/RedSeaMarkupLanguage/)
-* 👉 [WriterSharp](https://github.com/mf366-dev/WriterSharp/) (on hold)
-* 👉 [DoomMapGuessr](https://github.com/mf366-dev/DoomMapGuessr/)
+
+## Projects
+* 👉 **[The waveIDE Project](https://github.com/OceanApocalypse/waveIDE/)**
+* 👉 **[WriterSharp](https://github.com/mf366-dev/WriterSharp/)** (on hold)
+* 👉 **[DoomMapGuessr](https://github.com/mf366-dev/DoomMapGuessr/)**
 
 <!--
 ## Translation Services 🌐
@@ -30,11 +31,11 @@ I provide translation services to Portuguese on my Buy Me A Coffee. Scroll to le
 * <img src="https://github.com/lipis/flag-icons/blob/main/flags/4x3/pt.svg" alt="PT" style="width:20px" title="PORTUGAL!!!!!"></img> **Portuguese**
 -->
 
-## Find me on
+## Find me on...
 <table>
   <tr>
     <th>
-      <a href="https://steamcommunity.com/profiles/76561199465872463">Steam</a>
+      <a href="https://codeberg.org/mateus-fr">Codeberg</a>
     </th>
     <th>
       <a href="https://youtube.com/@mf_366">Youtube</a>
